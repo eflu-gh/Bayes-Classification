@@ -1,0 +1,4 @@
+Test Document		Actual Label		Prediction Label		
+Document 0				action				action
+
+Tested documents: 1 Equal document prediction: 1 Different document prediction: 0 Overall accuracy: 100.0%

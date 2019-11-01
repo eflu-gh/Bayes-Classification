@@ -1,0 +1,19 @@
+Prior probability of each class: 
+P(action) = -0.7369655941662062
+P(comedy) = -1.3219280948873622
+
+Probability of each feature in vocabulary given a class: 
+P(fast | action) = -2.584962500721156
+P(furious | action) = -2.584962500721156
+P(shoot | action) = -1.84799690655495
+P(fun | action) = -3.1699250014423126
+P(fly | action) = -3.1699250014423126
+P(love | action) = -3.1699250014423126
+P(couple | action) = -4.169925001442312
+P(fast | comedy) = -3.0
+P(furious | comedy) = -4.0
+P(shoot | comedy) = -4.0
+P(fun | comedy) = -2.0
+P(fly | comedy) = -3.0
+P(love | comedy) = -2.415037499278844
+P(couple | comedy) = -2.415037499278844
